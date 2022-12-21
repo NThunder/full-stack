@@ -40,3 +40,19 @@
 .container, .container-fluid {
   margin-top: 20px;
 }
+
+.buts {
+  float: right;
+}
+
+
+html {
+  background-image: url(https://medboli.ru/wp-content/uploads/2/f/2/2f201be2f3ba3baf1f672f049b697f7d.jpeg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
